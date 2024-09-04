@@ -61,15 +61,21 @@ To get started with this project locally, follow these steps:
     ```bash
      http://localhost:4200
 
-Functionality
-Category Selection: Click on any category from the Items page to view its products.
-Sorting Products: Use the sort option on the Products page to arrange items by price.
-Filtering Products: Filter products based on their star rating.
-Contributing
+## Functionality
+
+- **Category Selection:** Click on any category from the Items page to view its products.
+- **Sorting Products:** Use the sort option on the Products page to arrange items by price.
+- **Filtering Products:** Filter products based on their star rating.
+
+## Contributing
+
 Feel free to open issues or submit pull requests if you have suggestions or improvements for the project.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
 
-Acknowledgments
-DummyJSON API for providing the data.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [DummyJSON API](https://dummyjson.com/) for providing the data.
+
